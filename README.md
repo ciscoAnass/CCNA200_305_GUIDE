@@ -11,4 +11,4 @@ Well I'm Working on A website that gonna resume all my studies for the next 2 ye
 - [My Studies Website]: A personal website that I built using HTML, CSS, and JavaScript to display my resume and portfolio.
 
 ## Contact me
-You can reach me by email at example@example.com or follow me on [Twitter](https://twitter.com/ANASS_53) or [LinkedIn](https://es.linkedin.com/in/anass-assim-586ab7244).
+You can reach me by email at anass.assim.2010@gmail.com or follow me on [Twitter](https://twitter.com/ANASS_53) or [LinkedIn](https://es.linkedin.com/in/anass-assim-586ab7244).
