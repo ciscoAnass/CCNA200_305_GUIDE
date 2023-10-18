@@ -6,7 +6,7 @@ I'm interested in learning how to manage and optimize computer systems and netwo
 ## Projects
 Well I'm Working on A website that gonna resume all my studies for the next 2 years:
 
-- [CCNA 200-301] (https://github.com/RoronoaZoro53/CCNA200_305_GUIDE) : A repository with notes and resources on network administration topics.
+- [CCNA 200-301](https://github.com/RoronoaZoro53/CCNA200_305_GUIDE) : A repository with notes and resources on network administration topics.
 - [HTML&CSS]: A website that I created using GitHub Pages and Markdown to showcase my documentation skills.
 - [My Studies Website]: A personal website that I built using HTML, CSS, and JavaScript to display my resume and portfolio.
 
