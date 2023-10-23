@@ -13,6 +13,3 @@ Well I'm Working on A website that gonna resume all my studies for the next 2 ye
 ## Contact me
 You can reach me by email at anass.assim.2010@gmail.com or follow me on [Twitter](https://twitter.com/ANASS_53) or [LinkedIn](https://es.linkedin.com/in/anass-assim-586ab7244).
 ***
-## Liscense
-
- ![LISCENCE](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEnGdfWefXanPhRlnnzIhMRkzA2gvShNrKlxQlCtU5dBlfUlXhIY2LCpx3ou1GEyRDoXo&usqp=CAU) 
