@@ -18,7 +18,7 @@ The CCNA 200-301 Guide is a comprehensive resource designed to help individuals 
 
 To get started with the CCNA 200-301 Guide, you can:
 
- Clone this repository to your local machine:
+ Clone this repository to your local machine ( Terminal ):
 
    ```bash
    git clone https://github.com/ciscoAnass/CCNA200_305_GUIDE
